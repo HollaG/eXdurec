@@ -1,6 +1,6 @@
 (function adjustCss() {
     const popup = document.getElementById(
-        `ptModTable_${[0, 1, 2, 3, 4, 5, 6].find((i) =>
+        `ptModTable_${{Array.from(Array(100).keys()).find((i) =>
             document.getElementById(`ptModTable_${i}`)
         )}`
     );
@@ -14,7 +14,7 @@
     popup.style.height = "100%";
 
     const iframe = document.getElementById(
-        `ptModFrame_${[0, 1, 2, 3, 4, 5, 6].find((i) =>
+        `ptModFrame_${Array.from(Array(100).keys()).find((i) =>
             document.getElementById(`ptModFrame_${i}`)
         )}`
     );
