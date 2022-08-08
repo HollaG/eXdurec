@@ -3,6 +3,7 @@ Functions to help ease the pain of selecting modules on EduRec
 
 ### fullscreen_modal.js
 **Use Cases**
+To enlarge the viewable area when viewing and ranking Tutorials and Labs.
 - Select Tutorials / Labs --> Select Tutorials/Labs
 - Select Tutorials / Labs --> Rank Tutorials/Labs
 
