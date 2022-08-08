@@ -16,3 +16,4 @@ fetch('https://raw.githubusercontent.com/HollaG/eXdurec/main/fullscreen_modal.js
     .then(() => console.log("Loaded!"))
 ```
 3. If you exit the modal, just paste and run the code again.
+* The code only changes the styling properties of the web page. It does not modify any sensitive data. You are welcome to read through the code [here](https://github.com/HollaG/eXdurec/blob/main/fullscreen_modal.js).
