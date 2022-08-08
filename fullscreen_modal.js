@@ -1,6 +1,6 @@
 (function adjustCss() {
     const popup = document.getElementById(
-        `ptModTable_${{Array.from(Array(100).keys()).find((i) =>
+        `ptModTable_${Array.from(Array(100).keys()).find((i) =>
             document.getElementById(`ptModTable_${i}`)
         )}`
     );
