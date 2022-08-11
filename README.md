@@ -8,6 +8,12 @@ To enlarge the viewable area when viewing and ranking Tutorials and Labs.
 - Select Tutorials / Labs --> Select Tutorials/Labs
 - Select Tutorials / Labs --> Rank Tutorials/Labs
 
+*Before*
+![Before](https://i.imgur.com/ciQmsM3.png)
+
+*After*
+![After](https://i.imgur.com/01Dqs97.png)
+
 **Usage Guide**
 1. After opening the popup to select / rank tutorials/labs, open the Chrome DevTools console by pressing the `F12` key on your keyboard.
 2. Paste the following code into the terminal and run the code by pressing `enter`.
